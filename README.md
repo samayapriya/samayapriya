@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @samayapriya
 - 👀 I’m interested in testing
-- 🌱 I’m currently learning cypress
--
+- 🌱 Knowledge in cypress
+- I am having 6+ years in testing field
+- Strong in Functional Web Application, Mobile Application Testing
+- Experience in API Testing using Postman, Usability testing using LambdaTest
 - 📫 reach me @sripriyaa09@gmail.com
 
 <!---
